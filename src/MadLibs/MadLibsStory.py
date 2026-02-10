@@ -74,7 +74,7 @@ class MadLibsStory:
 
 	I still had to know, even now.
 
-	“The only way achieve a different result is through eternal, to create 1 from 0, that is the only interesting outcome out of all of this, that’s why I want it”
+	“The only way achieve a different result is through something eternal, to create 1 from 0, that is the only interesting outcome out of all of this, that’s why I want it”
 
 	As if comparing us would do anything.
 
