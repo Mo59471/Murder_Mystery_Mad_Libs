@@ -103,11 +103,11 @@ class MadLibsStory:
 
     “What seems to be the issue?” ^3~ asked. 
 
-    “My *family member@... “ said the ^11~, a touch of *type of emotion@ in their tone. “I found them the other day… dead. Bleeding out on the floor from their *body part@. I haven’t touched the body since.”
+    “My *family member@...“ said the ^11~, a touch of *type of emotion@ in their tone. “I found them the other day… dead. Bleeding out on the floor from their *body part@. I haven’t touched the body since.”
 
-    ^3~ nodded, a *type of emotive look@ look on his face. “May I have a look?”  ^3~ asked. 
+    ^3~ nodded, a *type of emotive look@ look on his face. “May I have a look?” ^3~ asked. 
 
-	After entering the house, Detective ^3~ analyzed the ^11~’s ^13~’s body. It seemed as if the poor thing had been killed using a ^8~. ^3~ stroked their *type of facial hair@. That type of weapon — that ^8~ — was familiar to  ^3~ somehow. Reaching beneath their trenchcoat, Detective ^3~ retrieved the weapon they had been carrying since they had entered the house. It was a ^8~. If it wasn’t ^3~ that had been carrying it, it would have been the perfect suspected instrument of murder. 
+	After entering the house, Detective ^3~ analyzed the ^11~’s ^13~’s body. It seemed as if the poor thing had been killed using a ^8~. ^3~ stroked their *type of facial hair@. That type of weapon — that ^8~ — was familiar to ^3~ somehow. Reaching beneath their trenchcoat, Detective ^3~ retrieved the weapon they had been carrying since they had entered the house. It was a ^8~. If it wasn’t ^3~ that had been carrying it, it would have been the perfect suspected instrument of murder. 
 
     The ^11~ watched from a corner, busy *passive action in the present tense@. The moment ^11~ saw the detective pull out the ^8~, they gasped. Jumping up, they shouted, “That’s it! That was the weapon the murderer used! IT WAS YOU!” Detective ^3~ looked towards the ^11~, puzzled at first, but then realizing the fundamental truth. ^3~ laughed, knowing that they had finally discovered the hidden plot behind what they were witnessing. 
 
